@@ -15,3 +15,4 @@ apt install unzip
 cd /usr/lib/python2.7/dist-packages/openerp/addons
 git clone  https://github.com/agavariat/auto_backup.git
 git clone https://github.com/dkrimmer84/l10n_co_res_partner.git
+#prueba
